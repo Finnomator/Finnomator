@@ -1,1 +1,1 @@
-![Finnomator](https://github-readme-stats-finnomator.vercel.app/api?username=Finnomator&show_icons=true&hide_border=true)
+![Finnomator](https://github-readme-stats-finnomator.vercel.app/api?username=Finnomator&show_icons=true&theme=dark)
